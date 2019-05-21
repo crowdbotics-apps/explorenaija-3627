@@ -1,0 +1,3 @@
+rootProject.name = 'explorenaija_3627'
+
+include ':app'

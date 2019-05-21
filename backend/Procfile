@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT explorenaija_3627.wsgi:application
